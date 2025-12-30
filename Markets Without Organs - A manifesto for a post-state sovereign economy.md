@@ -1,4 +1,4 @@
-# THE RHIZOME PROTOCOL: A MANIFESTO FOR ECONOMIC SOVEREIGNTY
+# THE RHIZOME PROTOCOL
 
 ## PREAMBLE: THE END OF FRAGILITY
 We live in an era of "Fragile Giants." Nation-states, central banks, and global supply chains have become rigid Monoliths. They are powerful, but they are brittle. A single sanction, a single server outage, or a single policy shift can freeze the livelihood of millions.

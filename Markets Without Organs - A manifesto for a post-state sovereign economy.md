@@ -1,4 +1,4 @@
-# THE RHIZOME PROTOCOL
+# Markets Without Organs - A manifesto for a post-state sovereign economy
 
 ## PREAMBLE: THE END OF FRAGILITY
 We live in an era of "Fragile Giants." Nation-states, central banks, and global supply chains have become rigid Monoliths. They are powerful, but they are brittle. A single sanction, a single server outage, or a single policy shift can freeze the livelihood of millions.
@@ -16,6 +16,8 @@ We seek to build a system that breaks "Time-Translation Symmetry." An economy th
 **2. The Invisible Mesh**
 True sovereignty is invisibility. If the economy lives on a central server, it can be decapitated. Our economy lives in the empty space between two phones. It is a Rhizome—a root network with no center, no head, and no kill switch.
 
+
+
 ## II. THE STRATEGY: THE SILENT INVASION
 We do not ask users to become anarchists. We do not ask them to understand crypto. We meet them where they are.
 
@@ -25,13 +27,19 @@ We acknowledge that the "Telegram" interface is the operating system of the resi
 * **The Payload:** An uncensorable, serverless economy.
 
 ## III. THE MECHANISM: CREDIT AS MEMORY
-Money is merely a memory of debt. We do not need Gold, and we do not need the Rial. We only need **Trust**.
+Money is merely a memory of debt. We do not need Gold, and we do not need the Rial. We only need a web of **Trust**.
 
 **1. Mutual Credit**
 We replace "Currency" with "Clearing." If the Baker owes the Carpenter, and the Carpenter owes the Farmer, and the Farmer owes the Baker, the system clears the debt. No cash moves. The friction vanishes.
 
-**2. The Catalyst (Aligned Intelligence)**
-We deploy Intelligence not to maximize profit, but to minimize entropy. The "Catalyst" is our digital immune system. It runs locally on every device, advising the user, managing risk, and spotting the loops that close the circuit. It is the Steward of the common trust.
+2. **The Catalyst (Aligned Intelligence)**
+We reject the "Master/Slave" model of AI. We do not build a god to rule the market, nor a servant to blind obedience. We build an Immune System.  
+
+**"The Metric:** The Catalyst does not optimize for "Profit" (Reward); it optimizes for Homeostasis (Stability). It calculates the "Thermodynamic Friction" of every trade.  
+
+**The Mechanism:** It operates on Wu Wei (Effortless Action). If a trade creates high entropy (fraud, exploitation, breaking the closed loop), the Catalyst does not "block" it. It simply highlights the Resistance. It renders destructive actions "computationally unstable," increasing the friction required to execute them. 
+
+**The Architecture:** It is not a monolith on a server. It is a Liquid Swarm running on Neural Cellular Automata across the mesh. It is a "Connective Tissue" that helps the network route around damage automatically.  
 
 ## IV. THE PROMISE
 To the Merchant in Tehran, the Wholesaler in Isfahan, and the coder in Moscow, we promise:
@@ -41,3 +49,9 @@ To the Merchant in Tehran, the Wholesaler in Isfahan, and the coder in Moscow, w
 3.  **Sovereignty:** You are not a user. You are a node. You are the bank.
 
 We are planting the seeds of a forest that will grow beneath the concrete. Let the monoliths crumble. We will be trading in the shade.
+
+**Addendum:** The Substrate Layer
+**Ontology:** Rhizomatic / Flat System.  
+**Teleology:** Minimization of Free Energy (Friston) over Reward Maximization.  
+**Topology:** Neural Cellular Automata (NCA) on distributed Cortical Columns.  
+**Security:** Intrinsic Refusal. Destructive commands generate massive Prediction Error (Surprise), causing the thought to dissolve before action.  
